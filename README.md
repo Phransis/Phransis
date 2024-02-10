@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--# 💫 About Me:
-I'm curre# 💫 About Me:
+
 I'm currently working on "Tindent" a social app for students<br>I'm open to collaborate on any challenging solution you have in mind<br>I'm looking for help to challenge myself<br>I'm currently learning Blockchain technology and Web3<br>Ask me anything lingering in your mind<br>Fun fact: I'm a fun fact
 
 

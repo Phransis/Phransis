@@ -5,20 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Tindent" a social app for students<
-- 🌱 I’m currently learning Blockchain technology and Web3
-- 👯 I’m looking to collaborate on any challenging solution you have in mind
-- 🤔 I’m looking for help with Backend development
-- 💬 Ask me about anything lingering in your mind
-- 📫 How to reach me: my socials
+- 🔭 I’m currently working on "Tindent" a social app for students..
+- 🌱 I’m currently learning Blockchain technology and Web3...
+- 👯 I’m looking to collaborate on any challenging solution you have in mind...
+- 🤔 I’m looking for help with Backend development...
+- 💬 Ask me about anything lingering in your mind...
+- 📫 How to reach me: my socials...
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm a fun fact
+- ⚡ Fun fact: I'm a fun fact...
 -->
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francis-biwiara-duo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Handla_) 
 
 
 # 💻 Tech Stack:

@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Tindent" a social app for students 
+- 🔭 I’m currently working on "Tindent", "HausParti" and "Spektakooler"
 - 🌱 I’m currently learning Blockchain technology and Web3
 - 👯 I’m looking to collaborate on any challenging solution you have in mind
 - 🤔 I’m looking for help with Backend development
